@@ -33,7 +33,7 @@
 
 ### 
 
-<div>
+<div align="center">
 	<img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=bgluis&layout=compact&theme=dark&count_private=true" alt="bgluis" />
 	<img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=bgluis&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&theme=dark&icon_color=13A10E" alt="bgluis" />
 	<img align="center" height="200" src="https://streak-stats.demolab.com?user=bgluis&theme=dark&ring=13A10E&fire=13A10E&currStreakLabel=13A10E" alt="bgluis" />
