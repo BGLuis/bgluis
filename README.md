@@ -77,6 +77,5 @@ Hi, I'm Luis, a full-stack dev and a software engineering student at PUC Minas. 
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bgluis/bgluis/output/snake.svg" alt="Snake animation" />
   <img src="https://raw.githubusercontent.com/bgluis/bgluis/main/galaga.gif" alt="Galaga Contribution Graph" />
 </div>
