@@ -30,13 +30,13 @@ Hi, I'm Luis, a full-stack dev and a software engineering student at PUC Minas. 
 **Frontend & Design**
 <br>
 <a href="https://skillicons.dev" target="_blank">
-<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,angular,threejs,figma" alt="Frontend skills" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,angular,svelte,threejs,wasm,figma" alt="Frontend skills" />
 </a>
 
 **Backend**
 <br>
 <a href="https://skillicons.dev" target="_blank">
-<img src="https://skillicons.dev/icons?i=java,spring,go,python,php,c,cs,nodejs,nestjs" alt="Backend skills" />
+<img src="https://skillicons.dev/icons?i=java,spring,go,rust,kotlin,python,php,c,cs,nodejs,nestjs" alt="Backend skills" />
 </a>
 
 **Databases**
@@ -74,8 +74,13 @@ Hi, I'm Luis, a full-stack dev and a software engineering student at PUC Minas. 
   <img align="center" height="180" src="https://streak-stats.demolab.com?user=bgluis&theme=dark&ring=13A10E&fire=13A10E&currStreakLabel=13A10E" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bgluis&theme=darkhub&no-frame=true&margin-w=10&row=1" alt="GitHub Achievements" />
+</div>
+
 <br>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/bgluis/bgluis/main/galaga.gif" alt="Galaga Contribution Graph" />
 </div>
+
